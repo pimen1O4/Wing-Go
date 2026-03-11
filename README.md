@@ -7,6 +7,7 @@ With a strong and dynamic visual identity, Wings & Go reflects energy, confidenc
 ---
 
 ##  Team Members
+[team name] J_POMS
 - **[Pimen Ehab]**  
 - **[Omar Hassan]**  
 - **[Sama Saeed]**  
